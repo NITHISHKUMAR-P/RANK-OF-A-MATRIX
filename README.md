@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: 
-#RegisterNumber:
+#Developed by: Nithishkumar P
+#RegisterNumber: 21005889
 
 import numpy as bp
 a=bp.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
